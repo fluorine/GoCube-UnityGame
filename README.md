@@ -21,6 +21,17 @@ The three rules are simple:
 3. And remember... Don't spend all your steps! (be aware of the steps bar. Take some
 extra steps: ||||||| )
 
+# Run project in Unity
+1. Clone this proyect into your local machine.
+2. Open your local copy using Unity 3D.
+3. Go to the Project Section (If hiddent, use Ctrl + F5) and navigate
+   to `Assets > Scenes` folder.
+4. Open the `MainMenu.unity` Scene.
+5. Click the Play button to use the game dictly and test any modification.
+
+**Everyone is welcome to contribute.** We recommend using SourceTree to
+contribute to this project if you are new to git.
+
 # Fluorine Studios
 - [Website](https://twitter.com/FluorineStudios)
 - [Twitter](https://twitter.com/FluorineStudios)
