@@ -1,5 +1,6 @@
 # GoCube Game
-A simple mobile game where you change the player's direction of movement by tapping the screen. Take all items, avoid walls and save steps to win.
+<img src="/Marketing/Screenshots/level_6.png?raw=true" align="right" width="250">
+A simple Unity game where you have to change the player's direction of movement by tapping the screen to take all items, avoid walls while saving steps to win.
 
 - [**Download here the game for Android**](https://play.google.com/store/apps/details?id=com.fluorinestudios.game.gocube)
 
