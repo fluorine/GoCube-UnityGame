@@ -33,8 +33,3 @@ The three rules are simple:
 
 **Everyone is welcome to contribute.** We recommend using SourceTree to
 contribute to this project if you are new to git.
-
-# Fluorine Studios
-- [Website](https://twitter.com/FluorineStudios)
-- [Twitter](https://twitter.com/FluorineStudios)
-- [Facebook](https://www.facebook.com/fluorinestudios)
